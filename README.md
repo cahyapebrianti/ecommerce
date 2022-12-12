@@ -24,7 +24,7 @@
 
 ## Cara Menjalankan 
 
-- [Download code projek ecommerrce yang sudah tersedia di github diatas](https://github.com/cahyapebrianti/ecommerce).
+- [Download code proyek ecommerrce yang sudah tersedia di github diatas](https://github.com/cahyapebrianti/ecommerce).
 - Pergi ke file projek ecommerce yang sudah di download tadi..
 - Salin file .env.example menjadi .env dan edit databasenya di sana.
 - Selanjutnya jalankan terminal dan jalankan code berikut:
