@@ -1,6 +1,7 @@
 ## <h1><b>Proyek Laravel Ecommerce PBO Cahya Pebrianti XI PPLG 1</b></h1>
 
 ## Screenshots
+
 <b>1.Tampilan Utama User</b>
 ![userdas1](https://user-images.githubusercontent.com/120351992/206960445-06430d9b-6ee5-45bd-be13-731880b94fac.PNG)
 ![userda2](https://user-images.githubusercontent.com/120351992/206960751-473d5e28-e007-4458-adfe-8fde299377dc.PNG)
@@ -21,22 +22,10 @@
 <b>6.Tampilan Kerancang/Chekout</b>
 ![addcart](https://user-images.githubusercontent.com/120351992/206960927-b0f1909e-757b-44f7-a9d4-b177681f1cef.PNG)
 
-## Cara Menjalankan Projek
-[1.Download code projek ecommerrce yang sudah tersedia di github diatas.
-https://github.com/cahyapebrianti/ecommerce]
-[2.Pergi ke file projek ecommerce yang sudah di download tadi.]
-[3.Salin file .env.example menjadi .env dan edit databasenya di sana.]
-4.Selanjutnya jalankan terminal dan jalankan code berikut:
--composer install
--php artisan key:generate
--php artisan migrate:fresh --seed
--php artisan storage:link
--Php artisan serve (untuk menjalankan projek)]
-[5.Jalankan di Chrome dengan mengetikan http://127.0.0.1:8000/ ]
-[6.Kemudian Register Akun baru]
+## Cara Menjalankan 
 
 - [Download code projek ecommerrce yang sudah tersedia di github diatas](https://github.com/cahyapebrianti/ecommerce).
-- [Pergi ke file projek ecommerce yang sudah di download tadi.].
+- Pergi ke file projek ecommerce yang sudah di download tadi..
 - Salin file .env.example menjadi .env dan edit databasenya di sana.
 - Selanjutnya jalankan terminal dan jalankan code berikut:
 - composer install
@@ -44,7 +33,7 @@ https://github.com/cahyapebrianti/ecommerce]
 - php artisan migrate:fresh --seed
 - php artisan storage:link
 - Php artisan serve (untuk menjalankan projek)
-- Jalankan di Chrome dengan mengetikan http://127.0.0.1:8000/).
+- Jalankan di Chrome dengan mengetikan http://127.0.0.1:8000/.
 - Kemudian Register Akun baru
 
 ## About Laravel
@@ -60,4 +49,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
+
+## Dibuat Oleh
+<b>Cahya Pebrianti</b>
+<b>XI PPLG 1</b>
 
