@@ -4,11 +4,16 @@
 1.Tampilan Utama User
 ![userdas1](https://user-images.githubusercontent.com/120351992/206960445-06430d9b-6ee5-45bd-be13-731880b94fac.PNG)
 ![userda2](https://user-images.githubusercontent.com/120351992/206960751-473d5e28-e007-4458-adfe-8fde299377dc.PNG)
+2.Tampilan Register
 ![userregister](https://user-images.githubusercontent.com/120351992/206960854-d2f8343d-1423-4398-b29b-8e63b57d18c3.PNG)
+3.Tampilan Login
 ![userlogin](https://user-images.githubusercontent.com/120351992/206960858-ebe31ac3-e83d-49c1-a21c-df8511192ec7.PNG)
+4.Tampilan Produk
 ![cart](https://user-images.githubusercontent.com/120351992/206960896-fa582bbe-84fc-433e-8022-54df8b386767.PNG)
 ![caart2](https://user-images.githubusercontent.com/120351992/206960906-84d73e41-a52a-45f0-b7b0-225228b9d1fd.PNG)
+5.Tampilan Detail Produk
 ![detailproduk](https://user-images.githubusercontent.com/120351992/206960918-9d951ba7-8aa7-4948-968e-8c4002587af9.PNG)
+6.Tampilan Kerancang/Chekout
 ![addcart](https://user-images.githubusercontent.com/120351992/206960927-b0f1909e-757b-44f7-a9d4-b177681f1cef.PNG)
 
 
