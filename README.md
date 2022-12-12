@@ -1,7 +1,7 @@
 ## <h1><b>Proyek Laravel Ecommerce PBO Cahya Pebrianti XI PPLG 1</b></h1>
 
 ## Screenshots
-<center><b>1.Tampilan Utama User</b></center>
+<b>1.Tampilan Utama User</b>
 ![userdas1](https://user-images.githubusercontent.com/120351992/206960445-06430d9b-6ee5-45bd-be13-731880b94fac.PNG)
 ![userda2](https://user-images.githubusercontent.com/120351992/206960751-473d5e28-e007-4458-adfe-8fde299377dc.PNG)
 
