@@ -22,18 +22,18 @@
 ![addcart](https://user-images.githubusercontent.com/120351992/206960927-b0f1909e-757b-44f7-a9d4-b177681f1cef.PNG)
 
 ## Cara Menjalankan Projek
-1.Download code projek ecommerrce yang sudah tersedia di github diatas.
-https://github.com/cahyapebrianti/ecommerce
-2.Pergi ke file projek ecommerce yang sudah di download tadi.
-3.Salin file .env.example menjadi .env dan edit databasenya di sana.
+[1.Download code projek ecommerrce yang sudah tersedia di github diatas.
+https://github.com/cahyapebrianti/ecommerce]
+[2.Pergi ke file projek ecommerce yang sudah di download tadi.]
+[3.Salin file .env.example menjadi .env dan edit databasenya di sana.]
 4.Selanjutnya jalankan terminal dan jalankan code berikut:
 -composer install
 -php artisan key:generate
 -php artisan migrate:fresh --seed
 -php artisan storage:link
--Php artisan serve (untuk menjalankan projek)
-5.Jalankan di Chrome dengan mengetikan http://127.0.0.1:8000/ 
-6.Kemudian Register Akun baru
+-Php artisan serve (untuk menjalankan projek)]
+[5.Jalankan di Chrome dengan mengetikan http://127.0.0.1:8000/ ]
+[6.Kemudian Register Akun baru]
 
 
 ## About Laravel
