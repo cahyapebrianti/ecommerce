@@ -1,20 +1,28 @@
 ## <h1><b>Projek Laravel Ecommerce PBO Cahya Pebrianti XI PPLG 1</b></h1>
 
 ## Screenshots
-1.Tampilan Utama User
+<b>1.Tampilan Utama User</b>
 ![userdas1](https://user-images.githubusercontent.com/120351992/206960445-06430d9b-6ee5-45bd-be13-731880b94fac.PNG)
 ![userda2](https://user-images.githubusercontent.com/120351992/206960751-473d5e28-e007-4458-adfe-8fde299377dc.PNG)
-2.Tampilan Register
+
+<b>2.Tampilan Register</b>
 ![userregister](https://user-images.githubusercontent.com/120351992/206960854-d2f8343d-1423-4398-b29b-8e63b57d18c3.PNG)
-3.Tampilan Login
+
+<b>3.Tampilan Login</b>
 ![userlogin](https://user-images.githubusercontent.com/120351992/206960858-ebe31ac3-e83d-49c1-a21c-df8511192ec7.PNG)
-4.Tampilan Produk
+
+<b>4.Tampilan Produk</b>
 ![cart](https://user-images.githubusercontent.com/120351992/206960896-fa582bbe-84fc-433e-8022-54df8b386767.PNG)
 ![caart2](https://user-images.githubusercontent.com/120351992/206960906-84d73e41-a52a-45f0-b7b0-225228b9d1fd.PNG)
-5.Tampilan Detail Produk
+
+<b>5.Tampilan Detail Produk</b>
 ![detailproduk](https://user-images.githubusercontent.com/120351992/206960918-9d951ba7-8aa7-4948-968e-8c4002587af9.PNG)
-6.Tampilan Kerancang/Chekout
+
+<b>6.Tampilan Kerancang/Chekout</b>
 ![addcart](https://user-images.githubusercontent.com/120351992/206960927-b0f1909e-757b-44f7-a9d4-b177681f1cef.PNG)
+
+## Cara Menjalankan Projek
+
 
 
 
@@ -32,61 +40,3 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-- [云软科技](http://www.yunruan.ltd/)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# ecommerce" 
-"# ecommerce" 
