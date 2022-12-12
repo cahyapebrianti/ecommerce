@@ -1,4 +1,4 @@
-## <h1><b>Proyek Laravel Ecommerce PBO Cahya Pebrianti XI PPLG 1</b></h1>
+## <h1><b>Laravel Ecommerce PBO Cahya Pebrianti XI PPLG 1</b></h1>
 
 ## Screenshots
 
