@@ -35,6 +35,17 @@ https://github.com/cahyapebrianti/ecommerce]
 [5.Jalankan di Chrome dengan mengetikan http://127.0.0.1:8000/ ]
 [6.Kemudian Register Akun baru]
 
+- [Download code projek ecommerrce yang sudah tersedia di github diatas](https://github.com/cahyapebrianti/ecommerce).
+- [Pergi ke file projek ecommerce yang sudah di download tadi.].
+- Salin file .env.example menjadi .env dan edit databasenya di sana.
+- Selanjutnya jalankan terminal dan jalankan code berikut:
+- composer install
+- php artisan key:generate
+- php artisan migrate:fresh --seed
+- php artisan storage:link
+- Php artisan serve (untuk menjalankan projek)
+- Jalankan di Chrome dengan mengetikan http://127.0.0.1:8000/).
+- Kemudian Register Akun baru
 
 ## About Laravel
 
